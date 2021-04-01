@@ -3,7 +3,7 @@ consumer_key="gLqBkck5oG3FZkpS0pV7ghrRI"
 consumer_secret="dhEXW1WAWoTLyU2AB9vaD09fFt7cAysETFUKuX25rnBG9XMXyD"
 
 access_token="1349743868993032195-X8p4u2VLEgoaXVajDlPQcFSyeBgFgP"
-access_token_secret="10Y0QfoKTYFWRosEiprKvXcWi9dtqUpS7WQNj61gDhUSR"
+access_token_secret=""
 
 def get_result(annotations):
     for index, sentence in enumerate(annotations.sentences):
